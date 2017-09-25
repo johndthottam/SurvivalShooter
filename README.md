@@ -3,7 +3,7 @@ A sample unity game where I am experimenting new features and other epic stuffs 
 The base game is a player shooting enemies which eventually will try to overwhelm the player. A score system is also there.
 
 ## New Functionalities 
-###### Added healthbar for enemies
+__###### Added healthbar for enemies__
 Enemies will hame a small healthbar on top of them so that player can see how much health is remaining. Strategy is to help player determine the enemy health so that tthey can prioritise whom to shoot and run away as enemies tend to overwhelm the player.
 
 ###### Killed enemies drop point balls which can be collected by player
