@@ -7,7 +7,7 @@ The base game is a player shooting enemies which eventually will try to overwhel
 
 Enemies will hame a small healthbar on top of them so that player can see how much health is remaining. Strategy is to help player determine the enemy health so that tthey can prioritise whom to shoot and run away as enemies tend to overwhelm the player.
 
-- __Killed enemies drop point balls which can be collected by player
+- __Killed enemies drop point balls which can be collected by player__
 
 Once an enemy is killed, it will drop a point ball which can be collected by the player for extra points. Different enemies drop different coloured balls with varying points.
 
