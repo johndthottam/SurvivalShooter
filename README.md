@@ -13,17 +13,17 @@ The base game is a player shooting enemies which eventually will try to overwhel
 
 - __Health Bar fluctuation when under attack by player__
 
-When an enemy is under attack by the player , its health bar will flash. It helps player to know which enemy is getting hit when firing the gun.
+>When an enemy is under attack by the player , its health bar will flash. It helps player to know which enemy is getting hit when firing >the gun.
 
 - __Probability system in enemies droping point balls and point balls expiry__
 
-A system is implemented in which not all the enemies will drop the point balls. Its based on probability that a killed enemy has 50% chance to drop a point ball and other 50% chance to not drop a point ball.
-Also a point ball has a specified time period after which it will disapper. So player has to collect it before it disapper to get the points
+>A system is implemented in which not all the enemies will drop the point balls. Its based on probability that a killed enemy has 50% >chance to drop a point ball and other 50% chance to not drop a point ball.
+>Also a point ball has a specified time period after which it will disapper. So player has to collect it before it disapper to get the >points
 
 - __Pause and exit functionality__
 
-Implemented UI elements to pause the game and also to exit the game as player wishes.
+>Implemented UI elements to pause the game and also to exit the game as player wishes.
 
 - __Extra Sounds__
 
-Extra sounds are added , lastest being sound for collecting the point balls. 
+>Extra sounds are added , lastest being sound for collecting the point balls. 
