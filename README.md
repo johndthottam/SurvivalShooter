@@ -2,7 +2,7 @@
 A sample unity game where I am experimenting new features and other epic stuffs in my free time. Thanks unity for the game template !
 The base game is a player shooting enemies which eventually will try to overwhelm the player. A score system is also there.
 
-###### latest build available at "_Playable_Build" folder
+###### latest build downloadable at "_Playable_Build" folder
 
 ## New Functionalities 
 - __Added healthbar for enemies__
