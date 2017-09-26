@@ -29,3 +29,9 @@ Also a point ball has a specified time period after which it will disapper. So p
 - __Extra Sounds__
 
 >Extra sounds are added , lastest being sound for collecting the point balls. 
+
+## Upcoming Functionalities 
+
+- __Mini-map__
+
+>a small minimap in corner to show the enemy presence in the map. 
