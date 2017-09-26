@@ -5,6 +5,10 @@ The base game is a player shooting enemies which eventually will try to overwhel
 ###### latest build downloadable at "_Playable_Build" folder
 
 ## New Functionalities 
+- __Mini-map__
+
+>a small minimap in corner to show the enemy presence in the map. Enemy is colour coded as red and the player as green. 
+
 - __Added healthbar for enemies__
 
 >Enemies will hame a small healthbar on top of them so that player can see how much health is remaining. Strategy is to help player determine the enemy health so that tthey can prioritise whom to shoot and run away as enemies tend to overwhelm the player.
@@ -32,6 +36,6 @@ Also a point ball has a specified time period after which it will disapper. So p
 
 ## Upcoming Functionalities 
 
-- __Mini-map__
+- __Health point balls__
 
->a small minimap in corner to show the enemy presence in the map. 
+>Killed enemies may drop a health point ball which restore the health of player 
