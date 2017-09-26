@@ -9,5 +9,5 @@ EditorBuildSettings:
     path: Assets/_CompletedAssets/Scenes/Level 01 5.x.unity
     guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/_new/action_map_01.unity
+    path: Assets/_mainscene/action_map_01.unity
     guid: 07aec92407636e74f826e0351f469115
