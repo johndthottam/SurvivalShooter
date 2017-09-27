@@ -11,6 +11,7 @@ public class EnemyHealth : MonoBehaviour
 	public Image healthBar;
 
 	public GameObject ScoreOrb;
+	public GameObject HealthOrb;
 
 	private float health;
     Animator anim;
@@ -101,7 +102,15 @@ public class EnemyHealth : MonoBehaviour
 	{
 		if (Random.value >= 0.5)
 		{
-			Instantiate (ScoreOrb, transform.position, transform.rotation);
+			if (Random.value > 0.7)
+			 {
+				Instantiate (HealthOrb, transform.position, transform.rotation);
+			 } 
+			else 
+			 {
+				Instantiate (ScoreOrb, transform.position, transform.rotation);
+			 }
+
 		}
 	}
 }
